@@ -1,0 +1,6 @@
+# sorgy macos
+**/.DS_Store
+
+# release
+./build
+./dist
